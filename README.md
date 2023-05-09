@@ -1,4 +1,4 @@
-# Website-to-GPT4 Website Chatbot
+# Website to GPT4 Website Chatbot
 
 ChatGPT for every website 
 
