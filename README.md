@@ -1,10 +1,10 @@
-# Website-to-Chatbot
+# Website-to-GPT4 Website Chatbot
 
 ChatGPT for every website 
 
-Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
+Instantly answer questions with a personalized chatbot trained on your website content built on langchain
 
-Create app like [SiteGPT](https://sitegpt.ai) or [Chatbase](https://chatbase.co) in less than 40 lines of code
+Create app like SiteGPT, Chatbase in less than 40 lines of code
 
 ### Getting Started
 
@@ -12,7 +12,7 @@ Code is up, ⭐ (Star) the repo to receive updates
 
 Replit and streamlit version coming soon
 
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
+Follow [Ankur Singh](https://twitter.com/ankur_maker) on twitter for updates
 
 ### How to run ?
 
